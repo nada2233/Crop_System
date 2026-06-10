@@ -60,7 +60,3 @@ crop_streamlit/
 - **soil_type** = Acidic/Neutral/Alkaline (from pH)
 - **climate_type** = hot_humid/hot_dry/cool_humid/cool_dry
 
-## ⚠️ sklearn Version Note
-
-The saved model was trained with **scikit-learn 1.6.1**.  
-Pin `scikit-learn==1.6.1` in requirements.txt to avoid unpickling errors.
